@@ -1,11 +1,11 @@
 <?php
 /*
 * Plugin Name: PluginLiensMagiques
-* Plugin URI: http://www.akonit.net
+* Plugin URI: http://www.26am.biz
 * Description: Pluggin de generation de lien dans les messages
 * Version: 0.5
 * Author: Benoit Lamouche
-* Author URI: http://www.akonit.net
+* Author URI: http://www.26am.biz
 */	
 function initLinksBL($content){
 	$keywords = array();
